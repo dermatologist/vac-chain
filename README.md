@@ -10,6 +10,10 @@ vac-chain is a prototype of an on-chain storage of vaccination information on Et
 
 ## Work in Progress (Visit nuchange.ca / canehealth.com for updates)
 
+## Created using
+
+[Truffle's react-auth-box:](https://github.com/truffle-box/react-auth-box)
+
 ## Installation
 
 1. Install Truffle globally.
@@ -51,9 +55,9 @@ vac-chain is a prototype of an on-chain storage of vaccination information on Et
 
 ## FAQ
 
-* __How do I setup for development
+* __How do I setup for development?__
 
-    I run ganache-cli on 192.168.0.250 (Change this in src/util/web3/getWeb3.js and truffle.js
+    I run ganache-cli on 192.168.0.250:7545 (Change this in `src/util/web3/getWeb3.js` and `truffle.js`)
 
 * __How do I use this with the EthereumJS TestRPC?__
 
