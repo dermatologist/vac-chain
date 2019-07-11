@@ -1,6 +1,4 @@
-# vac-chain
-
-![vac-chain](https://raw.github.com/dermatologist/vac-chain/develop/docs/block-chain.jpg)
+# Moved to https://github.com/E-Health/vac-chain
 
 Most healthcare blockchains use an off chain storage model with only the location of the data stored on-chain. This model shares some of the drawbacks of a centralized health information exchange model and is unlikely to be widely adopted.
 
